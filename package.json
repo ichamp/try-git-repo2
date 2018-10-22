@@ -1,0 +1,16 @@
+{
+  "name": "try-git-repo2",
+  "version": "2.0.0",
+  "description": "short description about repo whose versions will be changed",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "try-git-repo2",
+    "lolz",
+    "keyword"
+  ],
+  "author": "Siddharth Singh",
+  "license": "ISC"
+}
